@@ -1,0 +1,22 @@
+{
+  "name": "wechat",
+  "version": "0.0.1",
+  "description": "wechat public deverlop",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgoofyy/wechat.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "goofyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgoofyy/wechat/issues"
+  },
+  "homepage": "https://github.com/mgoofyy/wechat#readme"
+}
