@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mgoofyy/wechat/issues"
   },
-  "homepage": "https://github.com/mgoofyy/wechat#readme"
+  "homepage": "https://github.com/mgoofyy/wechat#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
